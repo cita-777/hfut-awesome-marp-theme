@@ -118,7 +118,8 @@ git clone https://github.com/yourusername/hfut-awesome-marp-theme.git
 
 `ws_src`将是你的工作区，你也可以不断建立新的ppt工程文件夹！
 
-Enjoy！
+Enjoy！当你用它做了两三个ppt后你的制作速度会飞速提升，别忘了大部分AI最擅长输出的就是MarkDown这一特点！
+喜欢的话点个Star⭐！
 
 ![example2](assets/images/example2.png)
 
