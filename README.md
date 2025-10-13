@@ -5,7 +5,7 @@
 
 > 适用于合肥工业大学HFUT本科生各类答辩、课程汇报等场景的 PPT 模板。
 
-[快速开始](#-快速开始) | [主题预览](#-主题预览) | [贡献指南](#-🤝 贡献)
+[快速开始](#快速开始) | [主题预览](#主题预览) | [贡献指南](#贡献)
 
 ## 📄 示例预览
 
@@ -118,6 +118,12 @@ git clone https://github.com/yourusername/hfut-awesome-marp-theme.git
 
 `ws_src`将是你的工作区，你也可以不断建立新的ppt工程文件夹！
 
+Enjoy！
+
+![example2](assets/images/example2.png)
+
+![example1](assets/images/example1.png)
+
 ## 🎨 主题预览
 
 | 主题色 |                     预览图                     |
@@ -159,7 +165,7 @@ git clone https://github.com/yourusername/hfut-awesome-marp-theme.git
 
 - **[Awesome-Marp](https://github.com/favourhong/Awesome-Marp)**：提供了本项目主题设计的基础和灵感
 - **[Marp](https://marp.app/)**：驱动本项目的核心演示文稿工具
-- [HFUTTUG/HFUT-badge: 合肥工业大学(Hefei University of Technology)校徽/校标 | Hefei University of Technology(HFUT) badge/logo.](https://github.com/HFUTTUG/HFUT-badge)：svg版本校徽/校标的使用
+- **[HFUTTUG/HFUT-badge: 合肥工业大学(Hefei University of Technology)校徽/校标 | Hefei University of Technology(HFUT) badge/logo.](https://github.com/HFUTTUG/HFUT-badge)：svg版本校徽/校标的使用**
 
 感谢上述项目！
 
