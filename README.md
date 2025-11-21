@@ -22,6 +22,23 @@
 - ✅ **HFUT 元素**：集成校徽、校名等视觉元素
 - ✅ **开箱即用**：提供完整模板，快速上手
 
+![example2](assets/images/example2.png)
+
+![example1](assets/images/example1.png)
+
+## 主题预览
+
+| 主题色 |                     预览图                     |
+| :----: | :--------------------------------------------: |
+|  红色  |    ![Red Theme](./assets/images/am_red.png)    |
+|  蓝色  |   ![Blue Theme](./assets/images/am_blue.png)   |
+|  绿色  |  ![Green Theme](./assets/images/am_green.png)  |
+|  紫色  | ![Purple Theme](./assets/images/am_purple.png) |
+|  棕色  |  ![Brown Theme](./assets/images/am_brown.png)  |
+|  暗色  |   ![Dark Theme](./assets/images/am_dark.png)   |
+
+*更多使用细节，请参考 `ws_src` 目录下的`example2`示例文件。*
+
 ## 快速开始
 
 ### 所需工具
@@ -120,23 +137,6 @@ git clone https://github.com/yourusername/hfut-awesome-marp-theme.git
 
 Enjoy！当你用它做了两三个ppt后你的制作速度会飞速提升，别忘了大部分AI最擅长输出的就是MarkDown这一特点！
 喜欢的话点个Star⭐！
-
-![example2](assets/images/example2.png)
-
-![example1](assets/images/example1.png)
-
-## 主题预览
-
-| 主题色 |                     预览图                     |
-| :----: | :--------------------------------------------: |
-|  红色  |    ![Red Theme](./assets/images/am_red.png)    |
-|  蓝色  |   ![Blue Theme](./assets/images/am_blue.png)   |
-|  绿色  |  ![Green Theme](./assets/images/am_green.png)  |
-|  紫色  | ![Purple Theme](./assets/images/am_purple.png) |
-|  棕色  |  ![Brown Theme](./assets/images/am_brown.png)  |
-|  暗色  |   ![Dark Theme](./assets/images/am_dark.png)   |
-
-*更多使用细节，请参考 `ws_src` 目录下的`example2`示例文件。*
 
 ## 贡献
 
