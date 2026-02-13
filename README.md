@@ -160,7 +160,7 @@ ws_src/
 ### 支持的工具 & 安装方式
 
 > [!TIP]
-> 不会的话直接让AI帮你安装好skill也可以
+> 手动配置嫌麻烦？直接让你的 AI 助手帮你把 Skill 安装到正确位置即可
 
 | AI 工具                                                    | 安装方式                                                                                                       |
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -168,7 +168,15 @@ ws_src/
 | [Cursor](https://www.cursor.com/)                             | 将 `skill/SKILL.md` 内容复制到项目根目录的 `.cursor/rules/hfut-marp.mdc`                                   |
 | [Windsurf](https://codeium.com/windsurf)                      | 将 `skill/SKILL.md` 内容复制到项目根目录的 `.windsurfrules`                                                |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli)     | 将 `skill/SKILL.md` 内容复制到项目根目录的 `GEMINI.md`                                                     |
-| 其他工具                                                   | 将 `skill/SKILL.md` 内容粘贴到对应工具的自定义指令 / System Prompt 中即可                                    |
+| [OpenAI Codex](https://github.com/openai/codex)               | 将 `skill/SKILL.md` 内容复制到项目根目录的 `AGENTS.md`                                                     |
+| [GitHub Copilot](https://github.com/features/copilot)         | 将 `skill/SKILL.md` 内容复制到项目根目录的 `.github/copilot-instructions.md`                               |
+| 其他工具                                                   | 将 `skill/SKILL.md` 作为自定义规则 / Skill 文件导入即可                                                      |
+
+以 Claude Code 为例，配置完成后可在 Skills 列表中看到 `hfut-marp-slides`，说明 Skill 已就绪：
+
+<p align="center">
+  <img src="assets/images/skill.png" alt="Claude Code Skill 配置示例" width="80%">
+</p>
 
 <details>
 <summary><b>📖 Skill 包含什么？</b></summary>
@@ -199,6 +207,8 @@ ws_src/
 <table>
   <tr>
     <td align="center"><img src="assets/images/demo1.png" alt="AI 对话示例 1" width="100%"><br><b>AI 对话过程</b>｜demo1</td>
+  </tr>
+  <tr>
     <td align="center"><img src="assets/images/demo2.png" alt="AI 对话示例 2" width="100%"><br><b>AI 对话过程</b>｜demo2</td>
   </tr>
 </table>
