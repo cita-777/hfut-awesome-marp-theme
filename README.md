@@ -152,7 +152,6 @@ ws_src/
 > 📥 [字体打包下载](https://github.com/cita-777/hfut-awesome-marp-theme/releases)（仅供体验，体验后请自行删除）
 
 
-
 ## 🤖 AI 生成 PPT
 
 本项目内置一份 AI Skill 文件（[`skill/SKILL.md`](./skill/SKILL.md)），可以让 AI **一键生成完整的 Marp PPT**，自动套用主题布局与样式规范。
