@@ -4,7 +4,7 @@ size: 16:9
 theme: am_red
 paginate: true
 headingDivider: [2,3]
-footer: \ *Cita* *计算机23-0班* *2025/10/4*
+footer: \ *张三* *计算机23-1班* *2025/10/4*
 ---
 
 
@@ -15,9 +15,9 @@ footer: \ *Cita* *计算机23-0班* *2025/10/4*
 # 计算机体系结构
 
 ###### The Locality Descriptor: A Holistic Cross-Layer Abstraction to Express Data Locality in GPUs
-汇报人：Cita
-计算机23-0班
-<2023217302@mail.hfut.edu.cn>
+汇报人：张三
+计算机23-1班
+<2023xxxxxx@mail.hfut.edu.cn>
 
 ---
 
