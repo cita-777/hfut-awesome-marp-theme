@@ -4,7 +4,7 @@
 
 # HFUT Awesome Marp Theme
 
-**用 Markdown 写出高颜值答辩 & 汇报 PPT**
+**以人类与 AI 都擅长的 Markdown 为中间媒介语言，与 AI 协助写出高颜值答辩 & 汇报 PPT**
 
 适用于合肥工业大学 (HFUT) 各类答辩、课程汇报、学术分享等场景
 
@@ -12,7 +12,7 @@
 [![Marp](https://img.shields.io/badge/Powered%20by-Marp-00B4D8)](https://marp.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/cita-777/hfut-awesome-marp-theme?style=social)](https://github.com/cita-777/hfut-awesome-marp-theme)
 
-[快速开始](#-快速开始) · [主题预览](#-主题预览) · [AI 生成 PPT](#-ai-生成-ppt) · [贡献指南](#-贡献)
+[预览](#-预览) · [快速开始](#-快速开始) · [配套 Skill](#-配套-skill) · [贡献指南](#-贡献)
 
 </div>
 
@@ -26,38 +26,39 @@
   <tr>
     <td align="center"><img src="assets/images/example1.png" alt="示例 1" width="100%"><br><b>示例 1</b>｜example1</td>
     <td align="center"><img src="assets/images/example2.png" alt="示例 2" width="100%"><br><b>示例 2</b>｜example2</td>
-    <td align="center"><img src="assets/images/example3.gif" alt="示例 3" width="100%"><br><b>示例 3</b>｜example3</td>
   </tr>
   <tr>
+    <td align="center"><img src="assets/images/example3.gif" alt="示例 3" width="100%"><br><b>示例 3</b>｜example3</td>
     <td align="center"><img src="assets/images/example4.gif" alt="示例 4" width="100%"><br><b>示例 4</b>｜example4</td>
-    <td align="center"><img src="assets/images/demo1.gif" alt="示例 5" width="100%"><br><b>示例 5</b>｜claude Opus4.6直出demo1</td>
-    <td align="center"><img src="assets/images/demo2.gif" alt="示例 6" width="100%"><br><b>示例 6</b>｜claude Opus4.6直出demo2</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/images/demo1.gif" alt="示例 5" width="100%"><br><b>示例 5</b>｜Claude Opus 4.6 直出 demo1</td>
+    <td align="center"><img src="assets/images/demo2.gif" alt="示例 6" width="100%"><br><b>示例 6</b>｜Claude Opus 4.6 直出 demo2</td>
   </tr>
 </table>
-
 
 > 📥 直接下载查看：[示例 1 PDF](./assets/example1.pdf) ｜ [示例 2 PDF](./assets/example2.pdf) ｜ [示例 3 PPTX](./assets/example3.pptx) ｜ [示例 4 PDF](./assets/example4.pdf) ｜ [Demo1 PDF](./assets/demo1-feature.pdf) ｜ [Demo2 PDF](./assets/demo2-minidb.pdf)
 
 ### 主题色一览
 
-| 红色 `am_red` | 蓝色 `am_blue` | 绿色 `am_green` |
-|:-:|:-:|:-:|
-| ![Red](./assets/images/am_red.png) | ![Blue](./assets/images/am_blue.png) | ![Green](./assets/images/am_green.png) |
-| **紫色 `am_purple`** | **棕色 `am_brown`** | **暗色 `am_dark`** |
-| ![Purple](./assets/images/am_purple.png) | ![Brown](./assets/images/am_brown.png) | ![Dark](./assets/images/am_dark.png) |
+|            红色 `am_red`            |           蓝色 `am_blue`           |          绿色 `am_green`          |
+| :------------------------------------: | :----------------------------------: | :----------------------------------: |
+|    ![Red](./assets/images/am_red.png)    |  ![Blue](./assets/images/am_blue.png)  | ![Green](./assets/images/am_green.png) |
+|      **紫色 `am_purple`**      |     **棕色 `am_brown`**     |      **暗色 `am_dark`**      |
+| ![Purple](./assets/images/am_purple.png) | ![Brown](./assets/images/am_brown.png) |  ![Dark](./assets/images/am_dark.png)  |
 
 > 更多使用细节见 `ws_src/example2/` 示例文件。
 
 ## ✨ 特性
 
-| | 特性 | 说明 |
-|:---:|------|------|
-| 🎨 | **六套主题色** | 红、蓝、绿、紫、棕、暗——一行 YAML 切换 |
-| 📐 | **丰富布局** | 封面 × 5、目录 × 2、分栏、品字型、导航栏… |
-| ✍️ | **Markdown 驱动** | 专注内容创作，告别鼠标拖拽 |
-| 🏫 | **HFUT 元素** | 校徽、校名 SVG 内置，开箱即用 |
-| 🤖 | **AI 加持** | 内置 Claude Code Skill，一句话生成完整 PPT |
-| 🔤 | **精选字体** | 中英文字体搭配，学术感拉满 |
+|      | 特性                    | 说明                                         |
+| :--: | ----------------------- | -------------------------------------------- |
+|  🎨  | **六套主题色**    | 红、蓝、绿、紫、棕、暗——一行 YAML 切换     |
+|  📐  | **丰富布局**      | 封面 × 5、目录 × 2、分栏、品字型、导航栏… |
+| ✍️ | **Markdown 驱动** | 专注内容创作，告别鼠标拖拽                   |
+|  🏫  | **HFUT 元素**     | 校徽、校名 SVG 内置，开箱即用                |
+|  🤖  | **AI 加持**       | 内置 AI Skill，一句话生成完整 PPT            |
+|  🔤  | **精选字体**      | 中英文字体搭配，学术感拉满                   |
 
 ## 🚀 快速开始
 
@@ -95,7 +96,7 @@ git clone https://github.com/cita-777/hfut-awesome-marp-theme.git
 
 1. 用 VS Code 打开 `ws_src` 文件夹
 2. 打开任意示例文件（如 `example1/hfut-awesome-marp.md`）
-3. 按 `Ctrl+K V` 打开侧边预览
+3. 按 `Ctrl+K V` 打开侧边预览（或点击编辑器右上角的 Marp 预览图标）
 4. 在文件头部设置主题：
 
    ```yaml
@@ -106,7 +107,6 @@ git clone https://github.com/cita-777/hfut-awesome-marp-theme.git
    headingDivider: [2,3]
    ---
    ```
-
 5. 编写内容，预览实时更新 ✨
 
 </details>
@@ -142,17 +142,16 @@ ws_src/
 
 安装推荐字体可获得最佳显示效果，未安装时会自动使用系统备选字体。
 
-| 用途 | 推荐字体 | 备选字体 |
-|------|----------|----------|
-| 正文 | Latin Modern Math · 方正宋刻本秀楷简体 | Calibri · 楷体 |
-| 标题 | Optima LT Medium · 方正苏新诗柳楷简体 | Arial · 黑体 |
-| 脚注 | Charm · 叶根友毛笔行书修正版 | Calibri · 楷体 |
-| 代码 | Fira Code · 霞鹜文楷等宽 | Consolas · 华文中宋 |
+| 用途 | 推荐字体                                | 备选字体             |
+| ---- | --------------------------------------- | -------------------- |
+| 正文 | Latin Modern Math · 方正宋刻本秀楷简体 | Calibri · 楷体      |
+| 标题 | Optima LT Medium · 方正苏新诗柳楷简体  | Arial · 黑体        |
+| 脚注 | Charm · 叶根友毛笔行书修正版           | Calibri · 楷体      |
+| 代码 | Fira Code · 霞鹜文楷等宽               | Consolas · 华文中宋 |
 
 > 📥 [字体打包下载](https://github.com/cita-777/hfut-awesome-marp-theme/releases)（仅供体验，体验后请自行删除）
 
-
-## 🤖 AI 生成 PPT
+## 🤖 配套 Skill
 
 本项目内置一份 AI Skill 文件（[`skill/SKILL.md`](./skill/SKILL.md)），可以让 AI **一键生成完整的 Marp PPT**，自动套用主题布局与样式规范。
 
@@ -163,13 +162,13 @@ ws_src/
 > [!TIP]
 > 不会的话直接让AI帮你安装好skill也可以
 
-| AI 工具 | 安装方式 |
-|---------|----------|
+| AI 工具                                                    | 安装方式                                                                                                       |
+| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | `mkdir -p ~/.claude/skills/hfut-marp-slides && cp skill/SKILL.md ~/.claude/skills/hfut-marp-slides/SKILL.md` |
-| [Cursor](https://www.cursor.com/) | 将 `skill/SKILL.md` 内容复制到项目根目录的 `.cursor/rules/hfut-marp.mdc` |
-| [Windsurf](https://codeium.com/windsurf) | 将 `skill/SKILL.md` 内容复制到项目根目录的 `.windsurfrules` |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | 将 `skill/SKILL.md` 内容复制到项目根目录的 `GEMINI.md` |
-| 其他工具 | 将 `skill/SKILL.md` 内容粘贴到对应工具的自定义指令 / System Prompt 中即可 |
+| [Cursor](https://www.cursor.com/)                             | 将 `skill/SKILL.md` 内容复制到项目根目录的 `.cursor/rules/hfut-marp.mdc`                                   |
+| [Windsurf](https://codeium.com/windsurf)                      | 将 `skill/SKILL.md` 内容复制到项目根目录的 `.windsurfrules`                                                |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli)     | 将 `skill/SKILL.md` 内容复制到项目根目录的 `GEMINI.md`                                                     |
+| 其他工具                                                   | 将 `skill/SKILL.md` 内容粘贴到对应工具的自定义指令 / System Prompt 中即可                                    |
 
 <details>
 <summary><b>📖 Skill 包含什么？</b></summary>
@@ -199,22 +198,21 @@ ws_src/
 
 <table>
   <tr>
-    <td align="center"><img src="assets/images/demo1.png" alt="AI 生成示例 1" width="100%"><br><b>示例 1</b>｜AI 生成效果</td>
-    <td align="center"><img src="assets/images/demo2.png" alt="AI 生成示例 2" width="100%"><br><b>示例 2</b>｜AI 生成效果</td>
+    <td align="center"><img src="assets/images/demo1.png" alt="AI 对话示例 1" width="100%"><br><b>AI 对话过程</b>｜demo1</td>
+    <td align="center"><img src="assets/images/demo2.png" alt="AI 对话示例 2" width="100%"><br><b>AI 对话过程</b>｜demo2</td>
   </tr>
 </table>
 
-
 ### Skill 规则速览
 
-| 规则 | 说明 |
-|:-----|:-----|
-| 单栏 ≤ 10 行 | 超出自动拆页 |
-| 两栏每栏 ≤ 8 行 | 超出自动拆页 |
-| 同一页禁两个表格 | 几乎必然溢出 |
+| 规则                              | 说明                           |
+| :-------------------------------- | :----------------------------- |
+| 单栏 ≤ 10 行                     | 超出自动拆页                   |
+| 两栏每栏 ≤ 8 行                  | 超出自动拆页                   |
+| 同一页禁两个表格                  | 几乎必然溢出                   |
 | 表格 / 列表用 `ldiv` / `rdiv` | `limg` / `rimg` 会压缩宽度 |
-| 图片必须加 `caption` class | 否则图注样式不渲染 |
-| 工程模式禁止编造 | 所有内容必须有代码依据 |
+| 图片必须加 `caption` class      | 否则图注样式不渲染             |
+| 工程模式禁止编造                  | 所有内容必须有代码依据         |
 
 > 📂 AI 生成的完整示例见 [`ws_src/skill-test-demo/`](./ws_src/skill-test-demo/)：[功能演示](./ws_src/skill-test-demo/demo1-feature.md) ｜ [课设答辩](./ws_src/skill-test-demo/demo2-minidb.md)
 
